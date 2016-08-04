@@ -1,0 +1,23 @@
+_repo: Hitchhiker-s-Guide-to-the-Internet_39
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krol, Ed
+    gutenberg_agent_id: '32'
+    url: http://www.gutenberg.org/2009/agents/32
+description: ''
+gutenberg_issued: '1992-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Internet'
+- !lcc 'TK'
+- !lcsh 'Computer networks'
+- GITenberg
+title: Hitchhiker's Guide to the Internet
+url: http://www.gutenberg.org/ebooks/39

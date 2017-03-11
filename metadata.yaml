@@ -1,11 +1,16 @@
 _repo: Hitchhiker-s-Guide-to-the-Internet_39
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krol, Ed
     gutenberg_agent_id: '32'
     url: http://www.gutenberg.org/2009/agents/32
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39#Hitchhiker-s-Guide-to-the-Internet
 gutenberg_issued: '1992-09-01'
 gutenberg_type: Text
 identifiers:
